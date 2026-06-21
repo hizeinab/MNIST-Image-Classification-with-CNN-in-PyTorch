@@ -15,8 +15,7 @@ This notebook demonstrates how to build and train a simple CNN using PyTorch to 
     *   3.1 Loss Function (`nn.CrossEntropyLoss`)
     *   3.2 Optimizer (`torch.optim.Adam`)
 4.  [Implementing the Training Loop](#section5)
-    *   4.1 Epoch and Batch Processing
-    *   4.2 Tracking Metrics
+
 5.  [Performance Evaluation](#section6)
     *   5.1 Visualizing Training Progress
     *   5.2 Final Test Set Evaluation
